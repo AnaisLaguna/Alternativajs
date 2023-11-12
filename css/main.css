@@ -303,6 +303,9 @@ body {
   font-family: "Open Sans";
   padding-left: 100px;
   padding-right: 15px;
+  text-decoration: none;
+  outline: none;
+  color: inherit;
 }
 .mainbox .h2_title:hover {
   color: rgb(60, 60, 220);
